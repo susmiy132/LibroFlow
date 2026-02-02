@@ -1,0 +1,6 @@
+
+{
+  "name": "LibroFlow - Smart Library Management System",
+  "description": "A comprehensive library management system with smart book recommendations, real-time tracking, fine management, and roles for both admins and students.",
+  "requestFramePermissions": []
+}
